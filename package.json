@@ -1,0 +1,28 @@
+{
+  "name": "hive-frame-messages",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A utility enabling request-based messaging. Not a node module -- a site building block for a hive-mvc based project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/node-hive/hive-frame-messages.git"
+  },
+  "keywords": [
+    "hive-mvc"
+  ],
+  "author": "Dave Edelhart",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/node-hive/hive-frame-messages/issues"
+  },
+  "homepage": "https://github.com/node-hive/hive-frame-messages",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tap": "~0.4.8"
+  }
+}
